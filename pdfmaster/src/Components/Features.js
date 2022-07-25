@@ -9,8 +9,8 @@ const Features = () => {
   return (
     <>
     
-    <div style={{backgroundColor:"#fdf2f8"}}>
-    <div className="container" style={{paddingTop:"28px",paddingBottom:"28px"}}>
+    <div style={{backgroundColor:"#f4f4f5"}}>
+    <div className="container" style={{paddingTop:"28px",paddingBottom:"40px"}}>
       <div className="container" style={{textAlign:"center",padding:"12px",fontFamily:"cursive"}}>
         <h3> Features </h3>
       </div>
